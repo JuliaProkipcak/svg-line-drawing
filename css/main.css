@@ -1,0 +1,8 @@
+h1 {
+  font-family: "Unica One", sans-serif;
+  position: absolute;
+  z-index: 1000;
+  color: #fff;
+  top: 1.6em;
+  left: 30px;
+}
